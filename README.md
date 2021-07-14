@@ -18,4 +18,4 @@ Output folder location ( _enquoted + case sensitive absolute path with trailing 
 * `-i INPUT, --input INPUT`
 Input file ( _enquoted + case sensitive_ ) containing list of FontSense IDs.
 * `-w WORKGROUP, --workgroup WORKGROUP`
-Workgroup ( _enquoted + case-sensitive_ ) within UTS that fonts will be added to.
+Workgroup ( _enquoted + case-sensitive_ ) within Universal Type Server that fonts will be added to.
