@@ -1,5 +1,5 @@
 # fontsense-to-workgroup-extensis-universal-type-server-corecli
-References a text file containing a listing of FontSense checksums and then adds corresponding fonts to a designated Universal Type Seerver Workgroup.
+References a text file containing a listing of FontSense checksums and then adds corresponding fonts to a designated Universal Type Server Workgroup.
 
 #### Requirements :
 * Extensis Universal Type Server version 6.1.7 ( _or greater_ )
