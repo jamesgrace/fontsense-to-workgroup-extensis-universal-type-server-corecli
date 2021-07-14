@@ -1,3 +1,16 @@
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
+#	Copyright (c) 2021, James Grace
+#	All rights reserved.
+#
+#	This source code is licensed under the BSD-style license found in the
+#	LICENSE file in the root directory of this source tree.
+#
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
 import os
 import errno
 import subprocess
@@ -15,7 +28,7 @@ requiredArgument.add_argument("-w", "--workgroup", required=True, help="Workgrou
 arguments = parser.parse_args()
 
 
-# - - - - - - - - - - - - - - - - - - - - - - - - - version 23june2020 -
+# - - - - - - - - - - - - - - - - - - - - - - - - - version 14july2021 -
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 if arguments.output:
