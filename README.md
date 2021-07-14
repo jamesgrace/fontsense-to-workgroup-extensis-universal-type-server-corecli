@@ -1,9 +1,9 @@
 # fontsense-to-workgroup-extensis-universal-type-server-corecli
 
-usage: fontsense_to_workgroup.py [-h] [-o OUTPUT] -i INPUT -w WORKGROUP
+usage: `fontsense_to_workgroup.py [-h] [-o OUTPUT] -i INPUT -w WORKGROUP`
 
 References a text file containing a listing of FontSense checksums and then
-adds corresponding fonts to a designated UTS Workgroup.
+adds corresponding fonts to a designated Universal Type Seerver Workgroup.
 
 optional arguments:
   -h, --help            show this help message and exit
